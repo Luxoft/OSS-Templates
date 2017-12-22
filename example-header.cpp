@@ -1,5 +1,5 @@
 //
-//   Copyright (C) 2017 Pelagicore AB
+//   Copyright (C) 2017 Luxoft GmbH
 //
 //   This file is part of Safe Render.
 
